@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qdJ7mG/m1U4g2EehdoDiMk0eYw/gr+wIl1e7GTRMy8DAhO0XNSG0JCWAY9qT1V0gfKcUq4BaEAupv79OvN//SA==",
+  "dgSpecHash": "wbhUPCNH6UXfAT5NVgTpqiAzhPq/FO/2LVvJKIcea5/abOiDdFjm9x7Hi+BxWHl/rRWMABkKNqS2r6BwZRBv+w==",
   "success": true,
   "projectFilePath": "/home/tcg/workspace/minimal-API/PizzaStore/PizzaStore.csproj",
   "expectedPackageFiles": [
